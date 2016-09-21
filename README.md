@@ -15,7 +15,7 @@
 
 **Para instalarlo :**
 
-Copiar el script ---Tanda-GIMP-Python-Fu-EditBrush-V2.1-SPANISH.py--- en la carpeta de plug-ins de TheGimp:
+Copiar el script ---Tanda-GIMP-Python-Fu-EditBrush-V2.1-SPANISH.py--- en la carpeta de plug-ins de Gimp:
 
 /home/usuario/.gimp2.X/plug-ins
 
@@ -29,7 +29,7 @@ Nota: Se debe tener instalado Python-FU, en debian:
 
 **To install :**
 
-Copy the script ---Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py--- in the folder of plug-ins of TheGimp. 
+Copy the script ---Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py--- in the folder of plug-ins of Gimp. 
 
 /home/user/.gimp2.X/plug-ins
 
