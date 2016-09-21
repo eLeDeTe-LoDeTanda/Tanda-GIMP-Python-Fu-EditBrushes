@@ -8,6 +8,58 @@
 ![](https://github.com/eLeDeTe-LoDeTanda/Tanda-GIMP-Python-Fu-EditBrushes/raw/master/Tanda-GIMP-Python-Fu-EditBrushes.jpg)
 
 =
+
+**01-Editar pinceles**
+
+01-Editar pincel
+
+02-Ver o editar imagen origen
+
+03-Duplicar pincel editable
+
+04-Renombrar pincel editable
+
+05-Borrar pincel editable
+
+06-Actualizar pinceles
+
+**02-Crear pinceles editables**
+
+01- Pincel activo a pincel editable
+
+02-Imagen activa a pincel editable
+
+03-Imagen en disco a pincel editable
+
+**Ayuda**
+
+=
+
+**01-Edit brushes-**
+
+01-Edit brush
+
+02-See or edit source image
+
+03-Duplicate edit brush
+
+04-Rename edit brush
+
+05-Delete edit brush
+
+06-Update brushes
+
+**02-Create edit brushes**
+
+01-Active brush to edit brush
+
+02-Active Image to edit brush
+
+03-Image in disc to edit brush
+
+**Help**
+
+=
 [Descargar Tanda-GIMP-Python-Fu-EditBrushes-V2.1-SPANISH.py](https://github.com/eLeDeTe-LoDeTanda/Tanda-GIMP-Python-Fu-EditBrushes/blob/master/Tanda-GIMP-Python-Fu-EditBrushes-V2.1-SPANISH.py)
 
 **[Download Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py](https://github.com/eLeDeTe-LoDeTanda/Tanda-GIMP-Python-Fu-EditBrushes/blob/master/Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py)**
