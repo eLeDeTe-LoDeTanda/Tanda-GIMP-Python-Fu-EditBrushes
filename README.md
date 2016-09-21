@@ -20,7 +20,7 @@ Copiar el script ---Tanda-GIMP-Python-Fu-EditBrush-V2.1-SPANISH.py--- en la carp
 /home/usuario/.gimp2.X/plug-ins
 
 permiso de ejecución:
-chmod +x ~/.gimp-2.X/plug-ins/Pinceles-Tanda-v.2.1.py
+chmod +x ~/.gimp-2.X/plug-ins/Tanda-GIMP-Python-Fu-EditBrushes-V2.1-SPANISH.py
 
 Nota: Se debe tener instalado Python-FU, en debian: 
       aptitude install gimp-python
@@ -29,12 +29,12 @@ Nota: Se debe tener instalado Python-FU, en debian:
 
 **To install :**
 
-Copy the script ---Tanda-GIMP-Python-Fu-EditBrush-V2.1-ENGLISH.py--- in the folder of plug-ins of TheGimp. 
+Copy the script ---Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py--- in the folder of plug-ins of TheGimp. 
 
 /home/user/.gimp2.X/plug-ins
 
 ejecution permission:
-chmod +x ~/.gimp-2.X/plug-ins/Brushes-Tanda-v.2.1.py
+chmod +x ~/.gimp-2.X/plug-ins/Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py
 
 Note: first, install Python-FU, in debian: 
       aptitude install gimp-python
