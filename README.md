@@ -9,9 +9,9 @@
 
 
 =
-[Descargar Tanda-GIMP-Python-Fu-EditBrushes-V2.1-SPANISH.py](http://lodetanda.blogspot.com/p/editbrushes.html)
+[Descargar Tanda-GIMP-Python-Fu-EditBrushes-V2.1-SPANISH.py]()
 
-**[Download Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py](http://lodetanda.blogspot.com/p/editbrushes.html)**
+**[Download Tanda-GIMP-Python-Fu-EditBrushes-V2.1-ENGLISH.py]()**
 =
 
 **Para instalarlo :**
