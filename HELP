@@ -1,0 +1,35 @@
+Tanda-GIMP-Python-Fu-EditBrushes-V2.1
+------------------------
+This script allows you to edit the brushes that have been made from the images (.gbr).
+Brushes with these features can be generated from a disc image, from the active image or any brush that we have installed in Gimp. 
+It is necessary to consider that although we can make editable any type of brush, the script at the moment only gives a brush of the type .gbr, it means that if we convert an animated brush the result will not be the awaited one. 
+
+The name of the brushes will be the chosen name with the extension and the maximal width you reach to edit it and it will start with (E). When you create a brush, a source image will be created in a folder -editable- from Gimp brushes (see preferences---folders---brushes). To make the script works, only one folder must be checked as editable. The script uses the souce image each time we edit the brush with which we can edit it every time we want without losing quality.  It is necessary to consider that the maximum size of our brush will be given by the resolution of the source image, that is that we can create bigger brushes but considering that passing 100 % we will lose definition.
+The source image we can edit it acceding to it with the script -See or edit source image- once we have finished editing it, we overwrite the changes "ctrl+s" and the next time we edit our brush it will be updated, if in the edition the resolution have been increased, to update the brush name you will have to change the name with the script - Rename Brush-.
+To delete some created brushes you must use the script -Delete edit brush-, so that you delete the brush and its source image.  In the same way, to duplicate or rename a brush you must use the script -Duplicate edit brush- or -Rename edit brush.
+
+The script has been tested on Linux with Gimp 2.2.x y 2.4.x and it works correctly.
+..............................
+http://lodetanda.blogspot.com -- lodetanda @ gmail.com
+------------------------
+
+##########################################################################
+##########################################################################
+###############################ESPAÑOL####################################
+##########################################################################
+##########################################################################
+
+Tanda-GIMP-Python-Fu-EditBrushes-V2.1
+------------------------
+Este script permite editar los pinceles que fueron creados a partir de imágenes (.gbr). 
+Se pueden generar pinceles con estas características desde una imagen en disco, desde la imagen activa y desde cualquier pincel que tengamos instalado en Gimp. Hay que tener en cuenta que si bien podemos hacer editable cualquier tipo de pincel, el script actualmente solo da como resultado un pincel del tipo .gbr, quiere decir que si convertimos un pincel animado el resultado no sera el esperado. 
+Para poder diferenciarlos, el nombre de los pinceles sera el que se haya elegido junto con la extensión y el ancho máximo que se podrá alcanzar al editarlo y comenzará con (E).
+Al crear un pincel se genera una imagen origen dentro de la carpeta -editable- de los pinceles de Gimp (ver en preferencias --- carpetas --- brochas). Para que el script funcione solo debe estar tildada como editable una sola carpeta de todas las disponibles. 
+El script usa la imagen origen cada vez que editemos el pincel con lo cual podemos editarlo todas las veces que queramos sin perder calidad.
+Hay que tener en cuenta que el tamaño máximo de nuestro pincel estará dado por la resolución de la imagen origen, es decir que podemos crear pinceles mas grandes pero teniendo en cuenta que pasando el 100 % perderemos definición.
+La imagen origen la podemos editar accediendo a ella con el script -ver o editar imagen origen- una vez que terminemos de editarla sobrescribimos los cambios "ctrl+s" y la próxima vez que editemos nuestro pincel se actualizara, si en la edición se aumento la resolución, para que se actualice en el nombre del pincel se tiene que cambiar el nombre del mismo con el script -Renombrar pincel-.
+Para eliminar alguno de los pinceles creados se debe hacer utilizando el script -Borrar pincel editable- de esta manera no solo se borra el pincel sino que también su imagen origen. De la misma manera para duplicar o renombrar un pincel se deben usar los scripts -Duplicar pincel editable- o -Renombrar pincel editable-.
+El Script fue testeado en Linux con Gimp 2.2.x y 2.4.x y funciona correctamente.
+..............................
+http://lodetanda.blogspot.com -- lodetanda @ gmail.com
+------------------------
