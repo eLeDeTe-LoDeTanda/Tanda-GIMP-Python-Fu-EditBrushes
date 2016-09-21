@@ -108,7 +108,7 @@ if __name__ == '__main__':
 
 	register(
 		"See_or_edit_source_image",
-		"See or edit the source image of the active brush.    Tanda.",
+		"See or edit the source image of the active brush.",
 		"See or edit source image",
 		"Tanda",
 		"Tanda",
