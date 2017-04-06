@@ -1,4 +1,4 @@
-![](https://dl.dropboxusercontent.com/u/6425188/eLeDeTe/Gimp.png)Tanda-GIMP-Python-Fu-EditBrushes
+![](https://drive.google.com/uc?export=view&id=0ByCcPfRkDJQ8NXFJMGJabmxLSzA)Tanda-GIMP-Python-Fu-EditBrushes
 =
 
 -Script en Python para [GIMP](http://gimp.org), el mismo permite generar, borrar,renombrar, duplicar y EDITAR pinceles generados a partir de imagenes o de otro pincel.-
